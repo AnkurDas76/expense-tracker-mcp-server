@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Expense data (personal/local, don't commit)
+expenses.db
+export_*.csv
+
+# Environment variables
+.env
